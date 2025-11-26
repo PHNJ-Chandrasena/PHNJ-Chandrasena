@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Nishantha Poddiwala Hewage or Nishantha Janith Chandrasena since my full name is Poddiwala Hewage Nishantha Janith Chandrasen
+# 👋 Hi, Hi, I'm Nishantha Poddiwala Hewage (full name: Poddiwala Hewage Nishantha Janith Chandrasena),  
+also known as Nishantha Janith Chandrasena.
+
 
 I blend **Computaional Statistics, Data Science, Medical Research, and Sports Analytics** — using statistical modeling, machine learning, and SQL to turn raw data into decisions.
 
