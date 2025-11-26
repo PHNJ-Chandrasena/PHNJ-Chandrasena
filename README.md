@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishantha Poddiwala Hewage  
 **Full name:** Poddiwala Hewage Nishantha Janith Chandrasena  
-**Also known as:** Nishantha Janith Chandrasena
+**Also known as:** Nishantha Janith Chandrasena ( Nishantha J Chandrasena )
 
 I blend **Computational Statistics, Machine Learning, Deep Learning, Data Science, Medical Research, and Sports Analytics** — using rigorous statistical methods, predictive modeling, and intelligent systems to turn raw data into scientifically meaningful insights.  
 My work also focuses on **misclassification analysis, data quality research, survival modeling, and model validation**, ensuring that data-driven decisions are accurate, reliable, and reproducible.
