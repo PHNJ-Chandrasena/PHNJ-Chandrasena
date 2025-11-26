@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishantha Poddiwala Hewage or Nishantha Janith Chandrasena since my full name is Poddiwala Hewage Nishantha Janith Chandrasen
 
-<!--
-**PHNJ-Chandrasena/PHNJ-Chandrasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I blend **Computaional Statistics, Data Science, Medical Research, and Sports Analytics** — using statistical modeling, machine learning, and SQL to turn raw data into decisions.
 
-Here are some ideas to get you started:
+## 🔬 Focus Areas
+- 🧠 Medical & Health Data Science — survival analysis, multi-omics ML
+- ⚽ Sports Science Analytics — athlete performance, HRV, injury risk
+- 📊 Data Analysis & Forecasting — time series, EDA
+- 🗄️ SQL & Databases — schema design, query optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+Python • R • SQL • Pandas • Scikit-learn • TensorFlow • ggplot2 • Power BI • Git/GitHub
+
+## 🚀 Featured Projects
+- 🏥 Breast Cancer Survival Analysis (R)
+- 🧬 Alzheimer’s ML Baseline (Python)
+- ⚽ Athlete Performance Prediction (Python)
+- 📈 Air Passenger Forecasting (R)
+- 🗄️ SQL Portfolio & Hospital Database
+
+## 📫 Connect
+- LinkedIn: YOUR-LINK
+- Email: your.email@example.com
