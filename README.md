@@ -1,4 +1,4 @@
-# 👋 Hi, Hi, I'm Nishantha Poddiwala Hewage (full name: Poddiwala Hewage Nishantha Janith Chandrasena),  
+# 👋 Hi,I'm Nishantha Poddiwala Hewage (full name: Poddiwala Hewage Nishantha Janith Chandrasena),  
 also known as Nishantha Janith Chandrasena.
 
 
